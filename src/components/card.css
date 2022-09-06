@@ -1,0 +1,6 @@
+.card {
+    padding: 2.5rem;
+    border-radius: 20px;
+    background: rgb(34,41,49);
+    background: radial-gradient(at top, rgba(34,41,51,1) 0%,  rgba(23,30,40,1) 100%);
+  }

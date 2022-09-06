@@ -1,0 +1,14 @@
+.rounded-container {
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    background-color: #28303b;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 0rem;
+}
+
+.rounded-container-big {
+    width: 3rem;
+    height: 3rem;
+}

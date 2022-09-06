@@ -1,0 +1,58 @@
+.rating-section {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    max-width: 330px;
+}
+
+.rating-section h3 {
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.rating-text {
+    color: var(--medium-grey-color);
+    margin-bottom: 1.5rem;
+    line-height: 1.4rem;
+}
+
+.rating-buttons {
+    display: flex;
+    justify-content: space-between;
+    color: var(--medium-grey-color);
+    margin-bottom: 1rem;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+.btnSelected {
+    background-color: var(--medium-grey-color) !important;
+    color: #fff;
+}
+
+.submitButton {
+    background-color: var(--primary-color);
+    padding: 0.7rem;
+    margin-top: 1rem;
+    border: 1px solid #000;
+    border-radius: 1.5rem;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.submitButton:hover {
+    background-color: #fff;
+    color: var(--primary-color);
+}

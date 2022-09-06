@@ -1,0 +1,21 @@
+body {
+    background-color: #141519;
+    font-family: 'Overpass', sans-serif;
+}
+
+.app {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

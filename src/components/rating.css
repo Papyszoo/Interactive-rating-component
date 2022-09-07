@@ -12,7 +12,7 @@
 }
 
 .rating-text {
-    color: var(--medium-grey-color);
+    color: var(--light-grey-color);
     margin-bottom: 1.5rem;
     line-height: 1.4rem;
 }

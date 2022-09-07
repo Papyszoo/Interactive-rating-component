@@ -1,0 +1,34 @@
+.thank-you-section {
+    display: flex;
+    flex-direction: column;
+    max-width: 330px;
+    align-items: center;
+}
+
+.thank-you-image {
+    max-width: 50%;
+    margin-bottom: 2rem;
+}
+
+.thank-you-selected-rating {
+    color: var(--primary-color);
+    background-color: #28303b;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
+    font-size: 0.9rem;
+    margin-bottom: 2.5rem;
+}
+
+.thank-you-header {
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.thank-you-paragraph {
+    color: var(--light-grey-color);
+    font-size: 0.91rem;
+    font-weight: 400;
+    text-align: center;
+}

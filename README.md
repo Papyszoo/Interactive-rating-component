@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Papyszoo/Interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://papyszoo.github.io/Interactive-rating-component)
 
 ## My process
 
